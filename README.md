@@ -1,6 +1,6 @@
 # Maven-Supplies
 Office supply store project by Maven Analytics                                                                                                                                    Introducing the Course Project
-  
+  ![Bars - Sales by Sub-Category](https://user-images.githubusercontent.com/66435540/156849519-5e80fcb5-5b49-4c90-84c7-6be5686cff53.png)
                                                                          Course ProJect
 SCENARIO                                                              
 You’ve just been hired by Maven Supplies, a cutting-edge office supply
